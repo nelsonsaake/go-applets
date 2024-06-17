@@ -1,0 +1,83 @@
+.schs_wrapper {
+    & .schs {
+        & .sch {
+            margin: 15px;
+            margin-top: 50px;
+            text-align: left;
+
+            & :not(.School):not(.URL):not(a):not(.ProgramName):not(.Block) {
+                display: inline-block;
+            }
+
+            & :not(.School):not(.URL):not(a):not(.ProgramName):not(.Block):not(.NoSeparator) {
+                &::after {
+                    margin: 20px;
+                    content: " ♦ ";
+                }
+                
+                &:last-child,
+                &:nth-last-child(2) {
+                    &::after {
+                        content: "";
+                    }
+                }
+            }
+
+            .NoSeparator {
+                &::after {
+                    margin: 20px;
+                    content: "";
+                }
+            }
+
+            & .ProgramName {
+                text-transform: capitalize;
+                color: $green;
+            }
+
+            & .URL {
+                &::before {
+                    content: "Website: ";
+                }
+
+                & a {
+                    color: brown;
+                }
+            }
+
+            // --- fonts ---
+
+            & :not(.School):not(.URL):not(a):not(.ProgramName) {
+                font-size: 25px;
+            }
+
+            & .School,
+            & .URL::before {
+                font-family: $josefin-sans-font;
+                letter-spacing: 0;
+                word-spacing: 0;
+            }
+
+            & .ProgramName {
+                font-size: 40px;
+                word-spacing: 4px;
+            }
+
+            & .School {
+                font-size: 21px;
+            }
+
+            & .URL {    
+                letter-spacing: 0;
+                word-spacing: 0;
+
+                font-size: 25px;
+
+                & a {
+                    font-size: 25px;
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+}

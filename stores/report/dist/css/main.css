@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: #3d3939;
+}
+
+body {
+  background-color: #fffaf1;
+}
+
+.page {
+  max-width: 21cm;
+  width: 21cm;
+  min-width: 21cm;
+  min-height: 29.7cm;
+  height: 29.7cm;
+  max-height: 29.7cm;
+  overflow: hidden;
+  padding-top: 70px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 70px;
+  background-color: #fffaf1;
+  font-family: "Josefin Sans";
+  position: relative;
+  z-index: 3;
+}
+
+.page_watermark {
+  position: absolute;
+  bottom: 108px;
+  left: 54px;
+  z-index: -1;
+}
+
+.page_watermark,
+.page_watermark img {
+  width: 693px;
+  height: 489px;
+  max-height: 29.7cm;
+  max-width: 21cm;
+  opacity: 0.25;
+}
+
+.page_header {
+  text-align: center;
+  color: #2f5d62;
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.page::after {
+  color: #2f5d62;
+  content: "saelections";
+  font-size: 12px;
+  height: 14px;
+  position: absolute;
+  bottom: 18px;
+  right: 23px;
+}
+
+.stores_to_sell .items .item {
+  display: inline-block;
+  max-width: 212px;
+  margin: 15px;
+}
+
+.stores_to_sell .items .item_photo {
+  padding-top: 15px;
+  text-align: left;
+}
+
+.stores_to_sell .items .item_photo .img {
+  display: inline-block;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  height: 150px;
+  min-height: 150px;
+  max-height: 150px;
+  width: 100%;
+  background-position: center center;
+  background-size: 200%;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.stores_to_sell .items .item_name {
+  padding-top: 10px;
+  text-align: left;
+  color: #2f5d62;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.stores_to_sell .items .item .item_details {
+  line-height: 35px;
+}
+
+.stores_to_sell .items .item .item_details span {
+  margin: 2px 2px 2px 0;
+  padding: 0px 5px;
+  background-color: rgba(192, 192, 192, 0.479);
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.stores_to_sell .items .item .item_details span::after {
+  content: "";
+}
+
+.stores_to_sell .items .item .item_details span:last-child::after {
+  content: "";
+}
+/*# sourceMappingURL=main.css.map */

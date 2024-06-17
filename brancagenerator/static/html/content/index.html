@@ -1,0 +1,38 @@
+{{define "content"}}
+<div class="row">
+    <div class="col-sm-1">
+    </div>
+    <div class="col-sm-10">
+      <img src="" alt="">
+      <form class="" action="/newBranca" method="post">
+
+        <div class="form-group">
+          <label for=""></label>
+          ENCODE
+          <label class="switch">
+            <input type="checkbox" name="encode-decode" style="">
+            <span class="slider round"></span>
+          </label>
+          DECODE
+        </div>
+
+        <div class="form-group">
+          <label for="key">SUPER SECRET KEY</label>
+          <input type="text" name="key" value="" placeholder="type super secret key here" required>
+        </div>
+
+        <div class="form-group">
+          <label for="text">TEXT</label>
+          <input type="text" name="text" value="" placeholder="type here what you which to encode or decode" required>
+          <button type="submit" name="button" class="btn btn-dark">GO</button> 
+        </div>
+
+        <div class="form-group">
+          <label for="result" id="resultLable">RESULT</label>
+          <input type="text" name="result" id="result" value="" placeholder="result will appear here" readonly>
+        </div>
+      </form>
+    </div>
+    <div class="col-sm-1"></div>
+</div>
+{{end}}

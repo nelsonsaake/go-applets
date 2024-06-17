@@ -1,0 +1,57 @@
+{{ define "layout" }}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>note4u</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="/css/layout.css">
+    <script src="/js/users.1.js"></script>
+</head>
+
+<body>
+    <header>
+        <div class="header-background">
+            <div class="glass">
+                <div class="welcome-message">
+                    Welcome to note4u Manger
+                </div>
+                <div class="header-menu">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-4">HOME</div>
+                            <div class="col-sm-4">USERS</div>
+                            <div class="col-sm-4">NOTES</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <div class="jumbotroon">
+            <div id="top">
+                <div class="content">
+                    {{ template "content" . }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--
+        <button class="btn btn-success send-to-post round fixed">
+            +
+        </button>
+    -->
+
+    <button class="btn btn-link back-to-top round fixed">
+        <a href="#top">top</a>
+    </button>
+</body>
+
+</html>
+{{ end }}

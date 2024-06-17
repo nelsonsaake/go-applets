@@ -1,0 +1,33 @@
+
+func recv() {
+	// receive message
+	for {
+		reader := wsutil.NewReader(conn, ws.StateServerSide)
+		_, err := reader.NextFrame()
+		if err != nil {
+			// handle error
+		}
+		data, err := ioutil.ReadAll(reader)
+		if err != nil {
+			// handle error
+		}
+		fmt.Println(data)
+
+		send()
+	}
+}
+
+func send() {
+	ln := ""
+	fmt.Sscanln("%v", ln)
+
+	if err := wsutil.WriteServerText(conn, []byte(ln)); err != nil {
+		// handle error
+	}
+}
+
+func sending() {
+	for {
+		send()
+	}
+}

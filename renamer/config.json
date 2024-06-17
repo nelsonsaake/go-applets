@@ -1,0 +1,11 @@
+{
+    "dir": "D:/projects/benchfive/workspacetwo/Workspace-Project-Manager-Backend/public/images",
+    "changes": {
+    },
+    "changerFuncs": [
+        "index"
+    ],
+    "mustBeDirectlyRelated": true, 
+    "skipFiles": false, 
+    "skipDirs": true
+}

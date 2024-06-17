@@ -1,0 +1,55 @@
+.stores_to_sell {
+    & .items {
+        & .item {
+            display: inline-block;
+            max-width: 212px;
+            margin: 15px;
+
+            &_photo {
+                @include spacing(15px);
+                text-align: left;
+
+                & .img {
+                    display: inline-block;
+                    align-self: center;
+                    height: 150px;
+                    min-height: 150px;
+                    max-height: 150px;
+                    width: 100%;
+                    background-position: center center;
+                    background-size: 200%;
+                    background-repeat: no-repeat;
+                    overflow: hidden;
+                }
+            }
+
+            &_name {
+                @include spacing(10px);
+                text-align: left;
+                color: $green;
+                font-size: 12px;
+                font-weight: bold;
+                text-transform: uppercase;
+            }
+
+            & .item_details {
+                line-height: 35px;
+                & span {
+                    margin: 2px 2px 2px 0;
+                    padding: 0px 5px;
+                    background-color: rgba(192, 192, 192, 0.479);
+                    border-radius: 5px;
+                    display: inline-block;
+                    &::after {
+                        content: "";
+                    }
+                    &:last-child {
+                        &::after {
+                            content: "";
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

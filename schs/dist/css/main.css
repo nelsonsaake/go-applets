@@ -1,0 +1,140 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Shalimar&family=Stalemate&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: #3d3939;
+}
+
+body {
+  background-color: #fffaf1;
+}
+
+.page {
+  max-width: 21cm;
+  width: 21cm;
+  min-width: 21cm;
+  min-height: 29.7cm;
+  height: 29.7cm;
+  max-height: 29.7cm;
+  overflow: hidden;
+  padding-top: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+  background-color: #fffaf1;
+  font-family: "Shalimar";
+  letter-spacing: 3;
+  word-spacing: 8;
+  position: relative;
+  z-index: 3;
+}
+
+.page_watermark {
+  position: absolute;
+  bottom: 108px;
+  left: 54px;
+  z-index: -1;
+}
+
+.page_watermark,
+.page_watermark img {
+  min-width: 693px;
+  min-height: 489px;
+  height: 489px;
+  max-height: 29.7cm;
+  max-width: 21cm;
+  opacity: 0.15;
+}
+
+.page_header {
+  text-align: center;
+  color: #2f5d62;
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+.page::after {
+  color: #2f5d62;
+  content: "schools";
+  font-size: 16px;
+  height: 14px;
+  position: absolute;
+  bottom: 18px;
+  right: 23px;
+}
+
+.schs_wrapper .schs .sch {
+  margin: 15px;
+  margin-top: 50px;
+  text-align: left;
+}
+
+.schs_wrapper .schs .sch :not(.School):not(.URL):not(a):not(.ProgramName):not(.Block) {
+  display: inline-block;
+}
+
+.schs_wrapper .schs .sch :not(.School):not(.URL):not(a):not(.ProgramName):not(.Block):not(.NoSeparator)::after {
+  margin: 20px;
+  content: " ♦ ";
+}
+
+.schs_wrapper .schs .sch :not(.School):not(.URL):not(a):not(.ProgramName):not(.Block):not(.NoSeparator):last-child::after, .schs_wrapper .schs .sch :not(.School):not(.URL):not(a):not(.ProgramName):not(.Block):not(.NoSeparator):nth-last-child(2)::after {
+  content: "";
+}
+
+.schs_wrapper .schs .sch .NoSeparator::after {
+  margin: 20px;
+  content: "";
+}
+
+.schs_wrapper .schs .sch .ProgramName {
+  text-transform: capitalize;
+  color: #2f5d62;
+}
+
+.schs_wrapper .schs .sch .URL::before {
+  content: "Website: ";
+}
+
+.schs_wrapper .schs .sch .URL a {
+  color: brown;
+}
+
+.schs_wrapper .schs .sch :not(.School):not(.URL):not(a):not(.ProgramName) {
+  font-size: 25px;
+}
+
+.schs_wrapper .schs .sch .School,
+.schs_wrapper .schs .sch .URL::before {
+  font-family: "Josefin Sans";
+  letter-spacing: 0;
+  word-spacing: 0;
+}
+
+.schs_wrapper .schs .sch .ProgramName {
+  font-size: 40px;
+  word-spacing: 4px;
+}
+
+.schs_wrapper .schs .sch .School {
+  font-size: 21px;
+}
+
+.schs_wrapper .schs .sch .URL {
+  letter-spacing: 0;
+  word-spacing: 0;
+  font-size: 25px;
+}
+
+.schs_wrapper .schs .sch .URL a {
+  font-size: 25px;
+  font-weight: bold;
+}
+/*# sourceMappingURL=main.css.map */

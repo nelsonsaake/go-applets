@@ -1,0 +1,12 @@
+.page{
+    font-family: 'Agency FB';
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    line-height: 15pt;
+    padding-top: 40vh;
+    text-align: center;
+}
+
+select{
+    min-width: 150px;
+}

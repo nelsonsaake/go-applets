@@ -1,0 +1,13 @@
+
+change db to postgresql
+push to heroku and share link
+
+/notes/id put note
+/notes/id delete deletes note
+/notes/favourite/id
+/notes post new note
+/notes search
+/login post
+/users post
+/current-user get
+

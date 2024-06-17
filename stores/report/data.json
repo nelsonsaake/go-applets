@@ -1,0 +1,1993 @@
+[
+	{
+		"Name": "Indomie Onion Chicken 70g",
+		"Photos": [
+			"../public/imgs/indomie-onion-chicken-70g.jpg/indomie-onion-chicken-70g.jpg"
+		],
+		"Price": "GH₵1.51",
+		"Units": "1",
+		"UnitPrice": "GH₵1.51",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.51"
+	},
+	{
+		"Name": "Indomie Chicken 70g",
+		"Photos": [
+			"../public/imgs/indomie-onion-chicken-70g.jpg/indomie-onion-chicken-70g.jpg"
+		],
+		"Price": "GH₵1.51",
+		"Units": "1",
+		"UnitPrice": "GH₵1.51",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.51"
+	},
+	{
+		"Name": "Indomie Onion chicken Super Pack 120g",
+		"Photos": [
+			"../public/imgs/indomie-onion-chicken-super-pack-120g.jpg/indomie-onion-chicken-super-pack-120g.jpg"
+		],
+		"Price": "GH₵2.52",
+		"Units": "1",
+		"UnitPrice": "GH₵2.52",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵2.52"
+	},
+	{
+		"Name": "Close Up Deep Action 60g",
+		"Photos": [
+			"../public/imgs/close-up-deep-action-160g.jpg/close-up-deep-action-160g.jpg"
+		],
+		"Price": "GH₵2.74",
+		"Units": "1",
+		"UnitPrice": "GH₵2.74",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵2.74"
+	},
+	{
+		"Name": "Colgate Double Action Toothbrush",
+		"Photos": [
+			"../public/imgs/colgate-double-action-toothbrush.jpg/colgate-double-action-toothbrush.jpg"
+		],
+		"Price": "GH₵2.80",
+		"Units": "1",
+		"UnitPrice": "GH₵2.80",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵2.80"
+	},
+	{
+		"Name": "Nutrisnax Oat Digestive Biscuit 105g",
+		"Photos": [
+			"../public/imgs/nutrisnax-oat-digestive-biscuit-box-of-36.jpg/nutrisnax-oat-digestive-biscuit-box-of-36.jpg"
+		],
+		"Price": "GH₵3.00",
+		"Units": "1",
+		"UnitPrice": "GH₵3.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.00"
+	},
+	{
+		"Name": "Annapurna Iodated Salt (453.6g)",
+		"Photos": [
+			"../public/imgs/annapurna-iodated-salt-4536g.jpg/annapurna-iodated-salt-4536g.jpg"
+		],
+		"Price": "GH₵3.03",
+		"Units": "1",
+		"UnitPrice": "GH₵3.03",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.03"
+	},
+	{
+		"Name": "Carnation Milk 160g Full Cream Evaporated",
+		"Photos": [
+			"../public/imgs/carnation-milk-160g-24-tins-full-cream-evaporated.jpg/carnation-milk-160g-24-tins-full-cream-evaporated.jpg"
+		],
+		"Price": "GH₵3.50",
+		"Units": "1",
+		"UnitPrice": "GH₵3.50",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.50"
+	},
+	{
+		"Name": "Milo Sardine 125g",
+		"Photos": [
+			"../public/imgs/secondary-school-package.jpg/secondary-school-package.jpg",
+			"../public/imgs/secondary-school-package.jpg/secondary-school-package.jpg",
+			"../public/imgs/secondary-school-package.jpg/secondary-school-package.jpg"
+		],
+		"Price": "GH₵3.53",
+		"Units": "1",
+		"UnitPrice": "GH₵3.53",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.53"
+	},
+	{
+		"Name": "Geisha Mackerel in Tomato sauce 155g",
+		"Photos": [
+			"../public/imgs/geisha-mackerel-in-tomato-sauce-155g.jpg/geisha-mackerel-in-tomato-sauce-155g.jpg"
+		],
+		"Price": "GH₵3.53",
+		"Units": "1",
+		"UnitPrice": "GH₵3.53",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.53"
+	},
+	{
+		"Name": "Fanta 330ml Can",
+		"Photos": [
+			"../public/imgs/fanta-330ml-tin-pack-of-24.jpg/fanta-330ml-tin-pack-of-24.jpg"
+		],
+		"Price": "GH₵3.53",
+		"Units": "1",
+		"UnitPrice": "GH₵3.53",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.53"
+	},
+	{
+		"Name": "Sprite 330ml Can",
+		"Photos": [
+			"../public/imgs/sprite-330ml-can.jpg/sprite-330ml-can.jpg"
+		],
+		"Price": "GH₵3.53",
+		"Units": "1",
+		"UnitPrice": "GH₵3.53",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.53"
+	},
+	{
+		"Name": "Oba Spaghetti 475g",
+		"Photos": [
+			"../public/imgs/oba-spaghetti-475g.jpg/oba-spaghetti-475g.jpg"
+		],
+		"Price": "GH₵3.64",
+		"Units": "1",
+		"UnitPrice": "GH₵3.64",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.64"
+	},
+	{
+		"Name": "Coca Cola 330ml - Can",
+		"Photos": [
+			"../public/imgs/coca-cola-can-6-pack.jpg/coca-cola-can-6-pack.jpg",
+			"../public/imgs/coca-cola-can-6-pack.jpg/coca-cola-can-6-pack.jpg",
+			"../public/imgs/coca-cola-can-6-pack.jpg/coca-cola-can-6-pack.jpg"
+		],
+		"Price": "GH₵4.00",
+		"Units": "1",
+		"UnitPrice": "GH₵4.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵4.00"
+	},
+	{
+		"Name": "Ideal Milk 160g",
+		"Photos": [
+			"../public/imgs/ideal-milk-160g.jpg/ideal-milk-160g.jpg"
+		],
+		"Price": "GH₵4.04",
+		"Units": "1",
+		"UnitPrice": "GH₵4.04",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵4.04"
+	},
+	{
+		"Name": "Coca Cola Plastic bottle 500ml",
+		"Photos": [
+			"../public/imgs/coca-cola-plastic-bottle-05l.jpg/coca-cola-plastic-bottle-05l.jpg"
+		],
+		"Price": "GH₵4.50",
+		"Units": "1",
+		"UnitPrice": "GH₵4.50",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵4.50"
+	},
+	{
+		"Name": "Fanta Orange 500ml - PET Bottle",
+		"Photos": null,
+		"Price": "GH₵4.50",
+		"Units": "1",
+		"UnitPrice": "GH₵4.50",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵4.50"
+	},
+	{
+		"Name": "Tasty Tom Tomato Paste 210g",
+		"Photos": [
+			"../public/imgs/tasty-tom-tomato-paste-210g.jpg/tasty-tom-tomato-paste-210g.jpg"
+		],
+		"Price": "GH₵4.50",
+		"Units": "1",
+		"UnitPrice": "GH₵4.50",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵4.50"
+	},
+	{
+		"Name": "Colgate Double Action Toothbrush Value Pack (2 toothbrushes)",
+		"Photos": [
+			"../public/imgs/colgate-double-action-value-pack.jpg/colgate-double-action-value-pack.jpg"
+		],
+		"Price": "GH₵5.00",
+		"Units": "1",
+		"UnitPrice": "GH₵5.00",
+		"SubUnits": "2",
+		"SubUnitPrice": "GH₵2.50"
+	},
+	{
+		"Name": "Heinz Baked Beans 200g",
+		"Photos": [
+			"../public/imgs/heinz-baked-beans-200g-pack-of-48.jpg/heinz-baked-beans-200g-pack-of-48.jpg"
+		],
+		"Price": "GH₵5.05",
+		"Units": "1",
+		"UnitPrice": "GH₵5.05",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵5.05"
+	},
+	{
+		"Name": "Lipton Yellow Label Tea Small Box 50g",
+		"Photos": [
+			"../public/imgs/lipton-tea-small-box.jpg/lipton-tea-small-box.jpg"
+		],
+		"Price": "GH₵5.65",
+		"Units": "1",
+		"UnitPrice": "GH₵5.65",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵5.65"
+	},
+	{
+		"Name": "Peak Full Cream Milk 500ml",
+		"Photos": [
+			"../public/imgs/peak-full-cream-milk-500ml.jpg/peak-full-cream-milk-500ml.jpg"
+		],
+		"Price": "GH₵6.06",
+		"Units": "1",
+		"UnitPrice": "GH₵6.06",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵6.06"
+	},
+	{
+		"Name": "St. Louis Cube Sugar 474g",
+		"Photos": [
+			"../public/imgs/st-louis-cube-sugar-474g.jpg/st-louis-cube-sugar-474g.jpg"
+		],
+		"Price": "GH₵6.06",
+		"Units": "1",
+		"UnitPrice": "GH₵6.06",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵6.06"
+	},
+	{
+		"Name": "Primier Gold Brown Sugar 500g",
+		"Photos": [
+			"../public/imgs/primier-gold-brown-sugar-500g.jpg/primier-gold-brown-sugar-500g.jpg"
+		],
+		"Price": "GH₵6.06",
+		"Units": "1",
+		"UnitPrice": "GH₵6.06",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵6.06"
+	},
+	{
+		"Name": "Mars Chocolate Bar 51g",
+		"Photos": [
+			"../public/imgs/mars-chocolate-bar-51g.jpg/mars-chocolate-bar-51g.jpg"
+		],
+		"Price": "GH₵6.06",
+		"Units": "1",
+		"UnitPrice": "GH₵6.06",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵6.06"
+	},
+	{
+		"Name": "Close Up Deep Action 160g",
+		"Photos": [
+			"../public/imgs/close-up-deep-action-160g.jpg/close-up-deep-action-160g.jpg"
+		],
+		"Price": "GH₵6.12",
+		"Units": "1",
+		"UnitPrice": "GH₵6.12",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵6.12"
+	},
+	{
+		"Name": "Lipton Green Tea Classic (25 bags)",
+		"Photos": [
+			"../public/imgs/lipton-green-tea-classic-25-tea-bags.jpg/lipton-green-tea-classic-25-tea-bags.jpg"
+		],
+		"Price": "GH₵6.33",
+		"Units": "1",
+		"UnitPrice": "GH₵6.33",
+		"SubUnits": "25",
+		"SubUnitPrice": "GH₵0.25"
+	},
+	{
+		"Name": "Akoto Groundnut Paste (Peanut Butter) 250g",
+		"Photos": [
+			"../public/imgs/akoto-groundnut-paste-peanut-butter-250g.jpg/akoto-groundnut-paste-peanut-butter-250g.jpg"
+		],
+		"Price": "GH₵6.56",
+		"Units": "1",
+		"UnitPrice": "GH₵6.56",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵6.56"
+	},
+	{
+		"Name": "Pepsodent Herbal Toothpaste 140g",
+		"Photos": [
+			"../public/imgs/pepsodent-herbal-toothpaste-130g.jpg/pepsodent-herbal-toothpaste-130g.jpg"
+		],
+		"Price": "GH₵7.00",
+		"Units": "1",
+		"UnitPrice": "GH₵7.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵7.00"
+	},
+	{
+		"Name": "Pepsodent Cavity Fighter 175g",
+		"Photos": [
+			"../public/imgs/pepsodent-cavity-fighter-200g.jpg/pepsodent-cavity-fighter-200g.jpg"
+		],
+		"Price": "GH₵7.07",
+		"Units": "1",
+		"UnitPrice": "GH₵7.07",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵7.07"
+	},
+	{
+		"Name": "Tasty Tom Tomato Paste 400g",
+		"Photos": [
+			"../public/imgs/tasty-tom-tomato-paste-400g.jpg/tasty-tom-tomato-paste-400g.jpg"
+		],
+		"Price": "GH₵7.20",
+		"Units": "1",
+		"UnitPrice": "GH₵7.20",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵7.20"
+	},
+	{
+		"Name": "Salsa Tomato Paste 210g Tin",
+		"Photos": [
+			"../public/imgs/salsa-tomato-paste-210g-tin.jpg/salsa-tomato-paste-210g-tin.jpg"
+		],
+		"Price": "GH₵7.35",
+		"Units": "1",
+		"UnitPrice": "GH₵7.35",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵7.35"
+	},
+	{
+		"Name": "De Spice shop Rosemary Spice (100g)",
+		"Photos": [
+			"../public/imgs/de-spice-shop-rosemary-spice-100g.jpg/de-spice-shop-rosemary-spice-100g.jpg"
+		],
+		"Price": "GH₵8.00",
+		"Units": "1",
+		"UnitPrice": "GH₵8.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵8.00"
+	},
+	{
+		"Name": "French Beans 250g",
+		"Photos": [
+			"../public/imgs/french-beans.jpg/french-beans.jpg"
+		],
+		"Price": "GH₵8.00",
+		"Units": "1",
+		"UnitPrice": "GH₵8.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵8.00"
+	},
+	{
+		"Name": "Germanit Bambara Beans 350g",
+		"Photos": [
+			"../public/imgs/germanit-bambara-beans-350g.jpg/germanit-bambara-beans-350g.jpg"
+		],
+		"Price": "GH₵8.05",
+		"Units": "1",
+		"UnitPrice": "GH₵8.05",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵8.05"
+	},
+	{
+		"Name": "Colgate Herbal Toothpaste 140g",
+		"Photos": [
+			"../public/imgs/colgate-herbal-toothpaste-140g.jpg/colgate-herbal-toothpaste-140g.jpg"
+		],
+		"Price": "GH₵8.08",
+		"Units": "1",
+		"UnitPrice": "GH₵8.08",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵8.08"
+	},
+	{
+		"Name": "Colgate Maximum Cavity Protection Toothpaste 140g",
+		"Photos": [
+			"../public/imgs/colgate-maximum-cavity-protection-toothpaste-140g.jpg/colgate-maximum-cavity-protection-toothpaste-140g.jpg"
+		],
+		"Price": "GH₵8.08",
+		"Units": "1",
+		"UnitPrice": "GH₵8.08",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵8.08"
+	},
+	{
+		"Name": "Oral- B Pro Health Toothpaste 140g",
+		"Photos": [
+			"../public/imgs/oral-b-pro-health-toothpaste-140g.jpg/oral-b-pro-health-toothpaste-140g.jpg",
+			"../public/imgs/5.jpg/5.jpg"
+		],
+		"Price": "GH₵8.08",
+		"Units": "1",
+		"UnitPrice": "GH₵8.08",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵8.08"
+	},
+	{
+		"Name": "Colgate Maxfresh 130g Toothpaste",
+		"Photos": null,
+		"Price": "GH₵8.08",
+		"Units": "1",
+		"UnitPrice": "GH₵8.08",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵8.08"
+	},
+	{
+		"Name": "Snickers Chocolate Bar 80g",
+		"Photos": [
+			"../public/imgs/snickers-chocolate-bar-80g.jpg/snickers-chocolate-bar-80g.jpg"
+		],
+		"Price": "GH₵8.08",
+		"Units": "1",
+		"UnitPrice": "GH₵8.08",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵8.08"
+	},
+	{
+		"Name": "Heinz Baked Beans In Tomato Sauce 415g",
+		"Photos": [
+			"../public/imgs/heinz-baked-beans-in-tomato-sauce-415g.jpg/heinz-baked-beans-in-tomato-sauce-415g.jpg"
+		],
+		"Price": "GH₵8.08",
+		"Units": "1",
+		"UnitPrice": "GH₵8.08",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵8.08"
+	},
+	{
+		"Name": "Seara Chicken Franks (Sausage) 340g",
+		"Photos": null,
+		"Price": "GH₵8.08",
+		"Units": "1",
+		"UnitPrice": "GH₵8.08",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵8.08"
+	},
+	{
+		"Name": "Snapple Juice Mango 591ml",
+		"Photos": [
+			"../public/imgs/snapple-juice-mango-591ml.jpg/snapple-juice-mango-591ml.jpg"
+		],
+		"Price": "GH₵8.58",
+		"Units": "1",
+		"UnitPrice": "GH₵8.58",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵8.58"
+	},
+	{
+		"Name": "De Spice Shop Complete Spice (100g)",
+		"Photos": [
+			"../public/imgs/3.jpg/3.jpg",
+			"../public/imgs/de-spice-shop-complete-spice-100g.jpg/de-spice-shop-complete-spice-100g.jpg"
+		],
+		"Price": "GH₵9.00",
+		"Units": "1",
+		"UnitPrice": "GH₵9.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵9.00"
+	},
+	{
+		"Name": "Wisdom Step By Step 4+ years Mild Mint Toothpaste 75ml",
+		"Photos": [
+			"../public/imgs/wisdom-step-by-step-4-years-mild-mint-toothpaste-75ml.jpg/wisdom-step-by-step-4-years-mild-mint-toothpaste-75ml.jpg"
+		],
+		"Price": "GH₵9.08",
+		"Units": "1",
+		"UnitPrice": "GH₵9.08",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵9.08"
+	},
+	{
+		"Name": "Colgate Herbal Toothpaste 230g - Value Pack",
+		"Photos": [
+			"../public/imgs/colgate-herbal-toothpaste-230g-value-pack.jpg/colgate-herbal-toothpaste-230g-value-pack.jpg"
+		],
+		"Price": "GH₵9.09",
+		"Units": "1",
+		"UnitPrice": "GH₵9.09",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵9.09"
+	},
+	{
+		"Name": "Justibek Sesame TomBrown Sachet 325g",
+		"Photos": [
+			"../public/imgs/sesame-tombrown-sachet-325g.jpg/sesame-tombrown-sachet-325g.jpg"
+		],
+		"Price": "GH₵9.09",
+		"Units": "1",
+		"UnitPrice": "GH₵9.09",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵9.09"
+	},
+	{
+		"Name": "Wisdom 6 years plus Toothbrush",
+		"Photos": [
+			"../public/imgs/wisdom-6-years-plus-toothbrush.jpg/wisdom-6-years-plus-toothbrush.jpg"
+		],
+		"Price": "GH₵9.26",
+		"Units": "1",
+		"UnitPrice": "GH₵9.26",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵9.26"
+	},
+	{
+		"Name": "Ideal Milk 390g",
+		"Photos": [
+			"../public/imgs/ideal-milk-390g-24-tins.jpg/ideal-milk-390g-24-tins.jpg"
+		],
+		"Price": "GH₵9.50",
+		"Units": "1",
+		"UnitPrice": "GH₵9.50",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵9.50"
+	},
+	{
+		"Name": "Geisha Mackerel in Tomato Sauce 425g",
+		"Photos": [
+			"../public/imgs/geisha-mackerel-in-tomato-sauce-425g.jpg/geisha-mackerel-in-tomato-sauce-425g.jpg"
+		],
+		"Price": "GH₵9.59",
+		"Units": "1",
+		"UnitPrice": "GH₵9.59",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵9.59"
+	},
+	{
+		"Name": "Nescafe Classic Tin 50g",
+		"Photos": [
+			"../public/imgs/nescafe-classic-tin-50g.jpg/nescafe-classic-tin-50g.jpg"
+		],
+		"Price": "GH₵10.10",
+		"Units": "1",
+		"UnitPrice": "GH₵10.10",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵10.10"
+	},
+	{
+		"Name": "Sprite 1.5 Litre",
+		"Photos": [
+			"../public/imgs/sprite-15-litre.jpg/sprite-15-litre.jpg"
+		],
+		"Price": "GH₵10.70",
+		"Units": "1",
+		"UnitPrice": "GH₵10.70",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵10.70"
+	},
+	{
+		"Name": "Primier Gold Brown Sugar 900g",
+		"Photos": [
+			"../public/imgs/primier-gold-brown-sugar-900g.jpg/primier-gold-brown-sugar-900g.jpg"
+		],
+		"Price": "GH₵11.00",
+		"Units": "1",
+		"UnitPrice": "GH₵11.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵11.00"
+	},
+	{
+		"Name": "Aquafresh Fresh & Minty Toothpaste 125ml",
+		"Photos": [
+			"../public/imgs/aquafresh-fresh-minty-toothpaste-100ml.jpg/aquafresh-fresh-minty-toothpaste-100ml.jpg"
+		],
+		"Price": "GH₵11.06",
+		"Units": "1",
+		"UnitPrice": "GH₵11.06",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵11.06"
+	},
+	{
+		"Name": "Jacobs Cream Crackers 300g",
+		"Photos": [
+			"../public/imgs/jacobs-cream-crackers-200g.jpg/jacobs-cream-crackers-200g.jpg"
+		],
+		"Price": "GH₵11.11",
+		"Units": "1",
+		"UnitPrice": "GH₵11.11",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵11.11"
+	},
+	{
+		"Name": "Roasted Peanuts 350g",
+		"Photos": [
+			"../public/imgs/peanut-groundnutroasted.jpg/peanut-groundnutroasted.jpg"
+		],
+		"Price": "GH₵12.00",
+		"Units": "1",
+		"UnitPrice": "GH₵12.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵12.00"
+	},
+	{
+		"Name": "Lele Rice 1Kg",
+		"Photos": [
+			"../public/imgs/lele-rice-1kg.jpg/lele-rice-1kg.jpg"
+		],
+		"Price": "GH₵12.10",
+		"Units": "1",
+		"UnitPrice": "GH₵12.10",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵12.10"
+	},
+	{
+		"Name": "McVities Digestive Biscuits Original 250g",
+		"Photos": [
+			"../public/imgs/digestive-biscuits-original-250g.jpg/digestive-biscuits-original-250g.jpg"
+		],
+		"Price": "GH₵12.12",
+		"Units": "1",
+		"UnitPrice": "GH₵12.12",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵12.12"
+	},
+	{
+		"Name": "StarKist Tuna Flakes in Sunflower Oil 160g",
+		"Photos": null,
+		"Price": "GH₵12.12",
+		"Units": "1",
+		"UnitPrice": "GH₵12.12",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵12.12"
+	},
+	{
+		"Name": "Coca Cola Plastic bottle 1.5L",
+		"Photos": [
+			"../public/imgs/coca-cola-plastic-bottle-15l.jpg/coca-cola-plastic-bottle-15l.jpg"
+		],
+		"Price": "GH₵12.50",
+		"Units": "1",
+		"UnitPrice": "GH₵12.50",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵12.50"
+	},
+	{
+		"Name": "Salsa Tin Tomato 400g",
+		"Photos": [
+			"../public/imgs/salsa-tin-tomato-400g.jpg/salsa-tin-tomato-400g.jpg"
+		],
+		"Price": "GH₵12.60",
+		"Units": "1",
+		"UnitPrice": "GH₵12.60",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵12.60"
+	},
+	{
+		"Name": "Even Semi-Skimmed Milk 1L",
+		"Photos": [
+			"../public/imgs/even-semi-skimmed-milk-1l.jpg/even-semi-skimmed-milk-1l.jpg"
+		],
+		"Price": "GH₵12.62",
+		"Units": "1",
+		"UnitPrice": "GH₵12.62",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵12.62"
+	},
+	{
+		"Name": "Ceres Guava Juice 1L 100% Juice Blend",
+		"Photos": [
+			"../public/imgs/ceres-guava-juice-1l-100-juice-blend.jpg/ceres-guava-juice-1l-100-juice-blend.jpg"
+		],
+		"Price": "GH₵12.62",
+		"Units": "1",
+		"UnitPrice": "GH₵12.62",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵12.62"
+	},
+	{
+		"Name": "Ceres Season's Treasures 1L 100% Juice Blend",
+		"Photos": [
+			"../public/imgs/30.jpg/30.jpg",
+			"../public/imgs/ceres-season-s-treasures-1l-100-juice-blend.jpg/ceres-season-s-treasures-1l-100-juice-blend.jpg"
+		],
+		"Price": "GH₵12.62",
+		"Units": "1",
+		"UnitPrice": "GH₵12.62",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵12.62"
+	},
+	{
+		"Name": "Sunny Brown Sugar 1kg",
+		"Photos": [
+			"../public/imgs/sunny-brown-sugar-1kg.jpg/sunny-brown-sugar-1kg.jpg"
+		],
+		"Price": "GH₵13.13",
+		"Units": "1",
+		"UnitPrice": "GH₵13.13",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵13.13"
+	},
+	{
+		"Name": "Nana's Rice 1kg - Short Grain Rice",
+		"Photos": [
+			"../public/imgs/nana-s-rice-1kg-short-grain-rice.jpg/nana-s-rice-1kg-short-grain-rice.jpg"
+		],
+		"Price": "GH₵14.00",
+		"Units": "1",
+		"UnitPrice": "GH₵14.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵14.00"
+	},
+	{
+		"Name": "McVities Digestive Biscuits Original 400g",
+		"Photos": [
+			"../public/imgs/mcvities-digestive-biscuits-original-400g.jpg/mcvities-digestive-biscuits-original-400g.jpg"
+		],
+		"Price": "GH₵14.14",
+		"Units": "1",
+		"UnitPrice": "GH₵14.14",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵14.14"
+	},
+	{
+		"Name": "Nescafe Breakfast 3 in 1 (32g)",
+		"Photos": [
+			"../public/imgs/nescafe-breakfast-3-in-1-320g.jpg/nescafe-breakfast-3-in-1-320g.jpg",
+			"../public/imgs/nescafe-breakfast-3-in-1-320g.jpg/nescafe-breakfast-3-in-1-320g.jpg",
+			"../public/imgs/nescafe-breakfast-3-in-1-320g.jpg/nescafe-breakfast-3-in-1-320g.jpg"
+		],
+		"Price": "GH₵14.14",
+		"Units": "1",
+		"UnitPrice": "GH₵14.14",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵14.14"
+	},
+	{
+		"Name": "Nutella Hazelnut Spread 180g",
+		"Photos": [
+			"../public/imgs/nutella-hazelnut-spread-180g.jpg/nutella-hazelnut-spread-180g.jpg"
+		],
+		"Price": "GH₵15.50",
+		"Units": "1",
+		"UnitPrice": "GH₵15.50",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵15.50"
+	},
+	{
+		"Name": "Top Choco 650g",
+		"Photos": [
+			"../public/imgs/top-choco-500g.jpg/top-choco-500g.jpg"
+		],
+		"Price": "GH₵16.00",
+		"Units": "1",
+		"UnitPrice": "GH₵16.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵16.00"
+	},
+	{
+		"Name": "McVities Digestive Milk Chocolate Biscuits 200g",
+		"Photos": [
+			"../public/imgs/digestive-milk-chocolate-biscuits-200g.jpg/digestive-milk-chocolate-biscuits-200g.jpg"
+		],
+		"Price": "GH₵16.01",
+		"Units": "1",
+		"UnitPrice": "GH₵16.01",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵16.01"
+	},
+	{
+		"Name": "Bel Aqua 17L",
+		"Photos": [
+			"../public/imgs/bel-aqua-17l.jpg/bel-aqua-17l.jpg"
+		],
+		"Price": "GH₵16.80",
+		"Units": "1",
+		"UnitPrice": "GH₵16.80",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵16.80"
+	},
+	{
+		"Name": "Gino Thai Jasmine Rice 1kg",
+		"Photos": [
+			"../public/imgs/gino-thai-jasmine-rice-1kg.jpg/gino-thai-jasmine-rice-1kg.jpg",
+			"../public/imgs/4.jpg/4.jpg"
+		],
+		"Price": "GH₵17.00",
+		"Units": "1",
+		"UnitPrice": "GH₵17.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵17.00"
+	},
+	{
+		"Name": "Cowbell Milk 400g Sachet",
+		"Photos": [
+			"../public/imgs/cowbell-sachets-400g-sachet.jpg/cowbell-sachets-400g-sachet.jpg"
+		],
+		"Price": "GH₵18.17",
+		"Units": "1",
+		"UnitPrice": "GH₵18.17",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵18.17"
+	},
+	{
+		"Name": "Quaker White Oats 500g",
+		"Photos": [
+			"../public/imgs/quaker-white-oats-500g.jpg/quaker-white-oats-500g.jpg"
+		],
+		"Price": "GH₵18.17",
+		"Units": "1",
+		"UnitPrice": "GH₵18.17",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵18.17"
+	},
+	{
+		"Name": "Milo Tin - Hot Chocolate 400g",
+		"Photos": [
+			"../public/imgs/nestle-milo-tin-hot-chocolate-400g.jpg/nestle-milo-tin-hot-chocolate-400g.jpg",
+			"../public/imgs/nestle-milo-tin-hot-chocolate-400g.jpg/nestle-milo-tin-hot-chocolate-400g.jpg",
+			"../public/imgs/nestle-milo-tin-hot-chocolate-400g.jpg/nestle-milo-tin-hot-chocolate-400g.jpg"
+		],
+		"Price": "GH₵18.85",
+		"Units": "1",
+		"UnitPrice": "GH₵18.85",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵18.85"
+	},
+	{
+		"Name": "Alpro Almond Milk - 1L",
+		"Photos": null,
+		"Price": "GH₵20.00",
+		"Units": "1",
+		"UnitPrice": "GH₵20.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵20.00"
+	},
+	{
+		"Name": "Lipton Yellow Label Tea Big Box 100 bags",
+		"Photos": [
+			"../public/imgs/lipton-yellow-label-tea-big-box.jpg/lipton-yellow-label-tea-big-box.jpg"
+		],
+		"Price": "GH₵20.19",
+		"Units": "1",
+		"UnitPrice": "GH₵20.19",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵20.19"
+	},
+	{
+		"Name": "Cadbury Richoco 1Kg",
+		"Photos": [
+			"../public/imgs/cadbury-richoco-1kg.jpg/cadbury-richoco-1kg.jpg"
+		],
+		"Price": "GH₵20.19",
+		"Units": "1",
+		"UnitPrice": "GH₵20.19",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵20.19"
+	},
+	{
+		"Name": "Stute 430g Fine Cut Orange Jam Sugar Free",
+		"Photos": [
+			"../public/imgs/stute-430g-fine-cut-orange-jam-sugar-free.jpg/stute-430g-fine-cut-orange-jam-sugar-free.jpg"
+		],
+		"Price": "GH₵20.70",
+		"Units": "1",
+		"UnitPrice": "GH₵20.70",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵20.70"
+	},
+	{
+		"Name": "Hords Brown Gold 400g Natural Cocoa Powder",
+		"Photos": [
+			"../public/imgs/hords-brown-gold-400g-natural-cocoa-powder.jpg/hords-brown-gold-400g-natural-cocoa-powder.jpg"
+		],
+		"Price": "GH₵20.70",
+		"Units": "1",
+		"UnitPrice": "GH₵20.70",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵20.70"
+	},
+	{
+		"Name": "Milo Sachet 400g",
+		"Photos": [
+			"../public/imgs/milo-sachet-500g.jpg/milo-sachet-500g.jpg"
+		],
+		"Price": "GH₵21.60",
+		"Units": "1",
+		"UnitPrice": "GH₵21.60",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵21.60"
+	},
+	{
+		"Name": "Nido Essentia Sachet - 365g",
+		"Photos": [
+			"../public/imgs/nido-essentia.jpg/nido-essentia.jpg"
+		],
+		"Price": "GH₵23.00",
+		"Units": "1",
+		"UnitPrice": "GH₵23.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵23.00"
+	},
+	{
+		"Name": "Emborg Cook and Bake Butter 200g",
+		"Photos": [
+			"../public/imgs/emborg-cook-and-bake-butter-200g.jpg/emborg-cook-and-bake-butter-200g.jpg"
+		],
+		"Price": "GH₵24.23",
+		"Units": "1",
+		"UnitPrice": "GH₵24.23",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵24.23"
+	},
+	{
+		"Name": "Tasty Tom 2.2kg",
+		"Photos": [
+			"../public/imgs/tasty-tom-22kg.jpg/tasty-tom-22kg.jpg"
+		],
+		"Price": "GH₵25.00",
+		"Units": "1",
+		"UnitPrice": "GH₵25.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵25.00"
+	},
+	{
+		"Name": "Ovaltine 400g Malted Food Drink",
+		"Photos": [
+			"../public/imgs/ovaltine-400g.jpg/ovaltine-400g.jpg"
+		],
+		"Price": "GH₵27.26",
+		"Units": "1",
+		"UnitPrice": "GH₵27.26",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵27.26"
+	},
+	{
+		"Name": "Crate of 30 fresh eggs",
+		"Photos": [
+			"../public/imgs/crate-of-30-fresh-eggs.jpg/crate-of-30-fresh-eggs.jpg"
+		],
+		"Price": "GH₵28.27",
+		"Units": "1",
+		"UnitPrice": "GH₵28.27",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵28.27"
+	},
+	{
+		"Name": "Choco Delight 500g",
+		"Photos": [
+			"../public/imgs/choco-delight-500g.jpg/choco-delight-500g.jpg"
+		],
+		"Price": "GH₵29.90",
+		"Units": "1",
+		"UnitPrice": "GH₵29.90",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵29.90"
+	},
+	{
+		"Name": "Tomatoes 1kg",
+		"Photos": [
+			"../public/imgs/tomatoes-1kg.jpg/tomatoes-1kg.jpg"
+		],
+		"Price": "GH₵30.00",
+		"Units": "1",
+		"UnitPrice": "GH₵30.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵30.00"
+	},
+	{
+		"Name": "Listerine Fresh Burst Mouthwash 500ml",
+		"Photos": [
+			"../public/imgs/listerine-fresh-burst-mouthwash-500ml.jpg/listerine-fresh-burst-mouthwash-500ml.jpg"
+		],
+		"Price": "GH₵30.29",
+		"Units": "1",
+		"UnitPrice": "GH₵30.29",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵30.29"
+	},
+	{
+		"Name": "Nutella Hazelnut Spread 350g",
+		"Photos": [
+			"../public/imgs/nutella-hazelnut-spread-350g.jpg/nutella-hazelnut-spread-350g.jpg"
+		],
+		"Price": "GH₵30.29",
+		"Units": "1",
+		"UnitPrice": "GH₵30.29",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵30.29"
+	},
+	{
+		"Name": "Beans -Olonka",
+		"Photos": null,
+		"Price": "GH₵30.29",
+		"Units": "1",
+		"UnitPrice": "GH₵30.29",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵30.29"
+	},
+	{
+		"Name": "Milo Sachet 800g",
+		"Photos": [
+			"../public/imgs/2.jpg/2.jpg",
+			"../public/imgs/milo-sachet-800g.jpg/milo-sachet-800g.jpg"
+		],
+		"Price": "GH₵30.54",
+		"Units": "1",
+		"UnitPrice": "GH₵30.54",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵30.54"
+	},
+	{
+		"Name": "Pepsodent Cavity Fighter 175g(Pack of 6)",
+		"Photos": [
+			"../public/imgs/pepsodent-cavity-fighter-200g.jpg/pepsodent-cavity-fighter-200g.jpg"
+		],
+		"Price": "GH₵38.37",
+		"Units": "1",
+		"UnitPrice": "GH₵38.37",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵38.37"
+	},
+	{
+		"Name": "Peak Powdered Milk 900g",
+		"Photos": [
+			"../public/imgs/28.jpg/28.jpg",
+			"../public/imgs/peak-milk-900g-tin.jpg/peak-milk-900g-tin.jpg"
+		],
+		"Price": "GH₵62.10",
+		"Units": "1",
+		"UnitPrice": "GH₵62.10",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵62.10"
+	},
+	{
+		"Name": "Yazz 3kg Washing Soap Activ Detergent with Enzymes Sachet",
+		"Photos": [
+			"../public/imgs/13.jpg/13.jpg",
+			"../public/imgs/yazz-3kg-washing-soap-activ-detergent-with-enzymes-sachet.jpg/yazz-3kg-washing-soap-activ-detergent-with-enzymes-sachet.jpg"
+		],
+		"Price": "GH₵64.50",
+		"Units": "1",
+		"UnitPrice": "GH₵64.50",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵64.50"
+	},
+	{
+		"Name": "Aptamil First Stage Milk 800g",
+		"Photos": [
+			"../public/imgs/aptamil-first-stage-milk.jpg/aptamil-first-stage-milk.jpg"
+		],
+		"Price": "GH₵119.90",
+		"Units": "1",
+		"UnitPrice": "GH₵119.90",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵119.90"
+	},
+	{
+		"Name": "Famous Amos Chocolate Cookies 56g",
+		"Photos": [
+			"../public/imgs/famous-amos-chocolate-cookies-56g.jpg/famous-amos-chocolate-cookies-56g.jpg"
+		],
+		"Price": "GH₵120.00",
+		"Units": "1",
+		"UnitPrice": "GH₵120.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵120.00"
+	},
+	{
+		"Name": "Secondary School Package",
+		"Photos": [
+			"../public/imgs/secondary-school-package.jpg/secondary-school-package.jpg",
+			"../public/imgs/secondary-school-package.jpg/secondary-school-package.jpg",
+			"../public/imgs/secondary-school-package.jpg/secondary-school-package.jpg"
+		],
+		"Price": "GH₵166.60",
+		"Units": "1",
+		"UnitPrice": "GH₵166.60",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵166.60"
+	},
+	{
+		"Name": "Royal Aroma Fortified Rice 4.5x5kg",
+		"Photos": [
+			"../public/imgs/royal-aroma-fortified-rice-45x5.jpg/royal-aroma-fortified-rice-45x5.jpg"
+		],
+		"Price": "GH₵182.00",
+		"Units": "1",
+		"UnitPrice": "GH₵182.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵182.00"
+	},
+	{
+		"Name": "Ideal Original Sachet 26g - Carton",
+		"Photos": null,
+		"Price": "GH₵205.00",
+		"Units": "1",
+		"UnitPrice": "GH₵205.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵205.00"
+	},
+	{
+		"Name": "Sunny Brown Sugar 25kg",
+		"Photos": [
+			"../public/imgs/sunny-brown-sugar-25kg.jpg/sunny-brown-sugar-25kg.jpg"
+		],
+		"Price": "GH₵246.68",
+		"Units": "1",
+		"UnitPrice": "GH₵246.68",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵246.68"
+	},
+	{
+		"Name": "Silver Hamper",
+		"Photos": null,
+		"Price": "GH₵252.43",
+		"Units": "1",
+		"UnitPrice": "GH₵252.43",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵252.43"
+	},
+	{
+		"Name": "Secondary School Package 2",
+		"Photos": null,
+		"Price": "GH₵230.00",
+		"Units": "2",
+		"UnitPrice": "GH₵115.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵115.00"
+	},
+	{
+		"Name": "Nhyira Long Grain Rice 5*5kg",
+		"Photos": [
+			"../public/imgs/nhyira-long-grain-rice-55kg.jpg/nhyira-long-grain-rice-55kg.jpg"
+		],
+		"Price": "GH₵241.50",
+		"Units": "5",
+		"UnitPrice": "GH₵48.30",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵48.30"
+	},
+	{
+		"Name": "Peak Milk (Green) Sachets 30g -Strip of 6",
+		"Photos": [
+			"../public/imgs/peak-milk-green-sachets-30g-strip-of-6.jpg/peak-milk-green-sachets-30g-strip-of-6.jpg"
+		],
+		"Price": "GH₵6.06",
+		"Units": "6",
+		"UnitPrice": "GH₵1.01",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.01"
+	},
+	{
+		"Name": "Creamy Plus Evaporated Milk 170g (Pack of 6)",
+		"Photos": [
+			"../public/imgs/creamy-milk-170g-pack-of-6.jpg/creamy-milk-170g-pack-of-6.jpg"
+		],
+		"Price": "GH₵18.00",
+		"Units": "6",
+		"UnitPrice": "GH₵3.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.00"
+	},
+	{
+		"Name": "Coca Cola 330ml Can (6 Pack)",
+		"Photos": [
+			"../public/imgs/coca-cola-can-6-pack.jpg/coca-cola-can-6-pack.jpg",
+			"../public/imgs/coca-cola-can-6-pack.jpg/coca-cola-can-6-pack.jpg",
+			"../public/imgs/coca-cola-can-6-pack.jpg/coca-cola-can-6-pack.jpg"
+		],
+		"Price": "GH₵20.40",
+		"Units": "6",
+		"UnitPrice": "GH₵3.40",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.40"
+	},
+	{
+		"Name": "Pepsodent Herbal Toothpaste 140g(pack of 6)",
+		"Photos": [
+			"../public/imgs/pepsodent-herbal-toothpaste-140gpack-of-6.jpg/pepsodent-herbal-toothpaste-140gpack-of-6.jpg"
+		],
+		"Price": "GH₵42.00",
+		"Units": "6",
+		"UnitPrice": "GH₵7.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵7.00"
+	},
+	{
+		"Name": "Tomatoes 2kg",
+		"Photos": [
+			"../public/imgs/tomatoes-2kg.jpg/tomatoes-2kg.jpg"
+		],
+		"Price": "GH₵49.00",
+		"Units": "6",
+		"UnitPrice": "GH₵8.17",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵8.17"
+	},
+	{
+		"Name": "Coca Cola 1.5L - Pack of 6",
+		"Photos": [
+			"../public/imgs/coca-cola-15l-pack-of-6.jpg/coca-cola-15l-pack-of-6.jpg",
+			"../public/imgs/coca-cola-15l-pack-of-6.jpg/coca-cola-15l-pack-of-6.jpg",
+			"../public/imgs/coca-cola-15l-pack-of-6.jpg/coca-cola-15l-pack-of-6.jpg",
+			"../public/imgs/coca-cola-15l-pack-of-6.jpg/coca-cola-15l-pack-of-6.jpg",
+			"../public/imgs/coca-cola-15l-pack-of-6.jpg/coca-cola-15l-pack-of-6.jpg"
+		],
+		"Price": "GH₵62.00",
+		"Units": "6",
+		"UnitPrice": "GH₵10.33",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵10.33"
+	},
+	{
+		"Name": "Sprite 1.5L - Pack of 6",
+		"Photos": [
+			"../public/imgs/sprite-15l-pack-of-6.jpg/sprite-15l-pack-of-6.jpg",
+			"../public/imgs/sprite-15l-pack-of-6.jpg/sprite-15l-pack-of-6.jpg",
+			"../public/imgs/sprite-15l-pack-of-6.jpg/sprite-15l-pack-of-6.jpg",
+			"../public/imgs/sprite-15l-pack-of-6.jpg/sprite-15l-pack-of-6.jpg",
+			"../public/imgs/sprite-15l-pack-of-6.jpg/sprite-15l-pack-of-6.jpg",
+			"../public/imgs/sprite-15l-pack-of-6.jpg/sprite-15l-pack-of-6.jpg"
+		],
+		"Price": "GH₵62.00",
+		"Units": "6",
+		"UnitPrice": "GH₵10.33",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵10.33"
+	},
+	{
+		"Name": "Milo Sachets 20g (Strip of 10)",
+		"Photos": [
+			"../public/imgs/milo-sachets-20g-strip-of-10.jpg/milo-sachets-20g-strip-of-10.jpg"
+		],
+		"Price": "GH₵7.57",
+		"Units": "10",
+		"UnitPrice": "GH₵0.76",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵0.76"
+	},
+	{
+		"Name": "Nido Essentia 14g Sachet (Strip of 10)",
+		"Photos": [
+			"../public/imgs/nido-essentia-14g-sachet-strip-of-10.jpg/nido-essentia-14g-sachet-strip-of-10.jpg",
+			"../public/imgs/nido-essentia-14g-sachet-strip-of-10.jpg/nido-essentia-14g-sachet-strip-of-10.jpg",
+			"../public/imgs/nido-essentia-14g-sachet-strip-of-10.jpg/nido-essentia-14g-sachet-strip-of-10.jpg"
+		],
+		"Price": "GH₵8.08",
+		"Units": "10",
+		"UnitPrice": "GH₵0.81",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵0.81"
+	},
+	{
+		"Name": "Cowbell Sachets 23g (Strip of 10)",
+		"Photos": [
+			"../public/imgs/cowbell-sachets-23g-strip-of-10.jpg/cowbell-sachets-23g-strip-of-10.jpg"
+		],
+		"Price": "GH₵10.10",
+		"Units": "10",
+		"UnitPrice": "GH₵1.01",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.01"
+	},
+	{
+		"Name": "Cadbury Hot Chocolate Drink 3-in-1(Strip of 10)",
+		"Photos": [
+			"../public/imgs/cadbury-hot-chocolate-drink-3-in-1strip-of-10.jpg/cadbury-hot-chocolate-drink-3-in-1strip-of-10.jpg"
+		],
+		"Price": "GH₵10.10",
+		"Units": "10",
+		"UnitPrice": "GH₵1.01",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.01"
+	},
+	{
+		"Name": "Ideal Original Sachet - 29g(strip of 10)",
+		"Photos": [
+			"../public/imgs/ideal-original-sachet-29gstrip-of-10.jpg/ideal-original-sachet-29gstrip-of-10.jpg"
+		],
+		"Price": "GH₵13.09",
+		"Units": "10",
+		"UnitPrice": "GH₵1.31",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.31"
+	},
+	{
+		"Name": "Nescafe Breakfast 3 in 1 (32g) Strip of 10",
+		"Photos": [
+			"../public/imgs/nescafe-breakfast-3-in-1-320g.jpg/nescafe-breakfast-3-in-1-320g.jpg",
+			"../public/imgs/nescafe-breakfast-3-in-1-320g.jpg/nescafe-breakfast-3-in-1-320g.jpg",
+			"../public/imgs/nescafe-breakfast-3-in-1-320g.jpg/nescafe-breakfast-3-in-1-320g.jpg"
+		],
+		"Price": "GH₵14.14",
+		"Units": "10",
+		"UnitPrice": "GH₵1.41",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.41"
+	},
+	{
+		"Name": "This way Chocolate Drink 40g (Strips of 10)",
+		"Photos": null,
+		"Price": "GH₵14.59",
+		"Units": "10",
+		"UnitPrice": "GH₵1.46",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.46"
+	},
+	{
+		"Name": "Cowbell Strawberry Milk 40g (Strip of 10)",
+		"Photos": [
+			"../public/imgs/cowbell-strawberry-milk-40g-strip-of-8.jpg/cowbell-strawberry-milk-40g-strip-of-8.jpg"
+		],
+		"Price": "GH₵16.10",
+		"Units": "10",
+		"UnitPrice": "GH₵1.61",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.61"
+	},
+	{
+		"Name": "Cowbell Mocha Milk 40g (Strip of 10)",
+		"Photos": [
+			"../public/imgs/cowbell-mocha-milk-40g-strip-of-8.jpg/cowbell-mocha-milk-40g-strip-of-8.jpg"
+		],
+		"Price": "GH₵16.10",
+		"Units": "10",
+		"UnitPrice": "GH₵1.61",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.61"
+	},
+	{
+		"Name": "Nido Essentia 26g Sachet (Strip of 10)",
+		"Photos": [
+			"../public/imgs/nido-essentia-26g-sachet-strip-of-10.jpg/nido-essentia-26g-sachet-strip-of-10.jpg",
+			"../public/imgs/nido-essentia-26g-sachet-strip-of-10.jpg/nido-essentia-26g-sachet-strip-of-10.jpg",
+			"../public/imgs/nido-essentia-26g-sachet-strip-of-10.jpg/nido-essentia-26g-sachet-strip-of-10.jpg"
+		],
+		"Price": "GH₵20.54",
+		"Units": "10",
+		"UnitPrice": "GH₵2.05",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵2.05"
+	},
+	{
+		"Name": "Golden Tree Chocolate 100g(Pack of 10)",
+		"Photos": [
+			"../public/imgs/golden-tree-chocolate-100gpack-of-10.jpg/golden-tree-chocolate-100gpack-of-10.jpg"
+		],
+		"Price": "GH₵75.70",
+		"Units": "10",
+		"UnitPrice": "GH₵7.57",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵7.57"
+	},
+	{
+		"Name": "Crate Of 12 Fresh Eggs",
+		"Photos": null,
+		"Price": "GH₵14.14",
+		"Units": "12",
+		"UnitPrice": "GH₵1.18",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.18"
+	},
+	{
+		"Name": "Nkatie Burger Peanut Snack (Pack of 12)",
+		"Photos": null,
+		"Price": "GH₵15.15",
+		"Units": "12",
+		"UnitPrice": "GH₵1.26",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.26"
+	},
+	{
+		"Name": "Jack 'n' Jill Biscuit (12 pieces)",
+		"Photos": [
+			"../public/imgs/bakers-good-morning-breakfast-biscuit-mixed-berries-50g-box-of-16.jpg/bakers-good-morning-breakfast-biscuit-mixed-berries-50g-box-of-16.jpg"
+		],
+		"Price": "GH₵16.40",
+		"Units": "12",
+		"UnitPrice": "GH₵1.37",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.37"
+	},
+	{
+		"Name": "Voltic 1.5L Bottled Water (Box of 12)",
+		"Photos": [
+			"../public/imgs/voltic-15l-bottled-water-box-of-12.jpg/voltic-15l-bottled-water-box-of-12.jpg"
+		],
+		"Price": "GH₵26.25",
+		"Units": "12",
+		"UnitPrice": "GH₵2.19",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵2.19"
+	},
+	{
+		"Name": "Bel Aqua 1.5L Bottled Water (Box of 12)",
+		"Photos": [
+			"../public/imgs/bel-aqua-15l-bottled-water-box-of-12.jpg/bel-aqua-15l-bottled-water-box-of-12.jpg"
+		],
+		"Price": "GH₵28.75",
+		"Units": "12",
+		"UnitPrice": "GH₵2.40",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵2.40"
+	},
+	{
+		"Name": "Fanta Orange 300ml - Pack of 12",
+		"Photos": [
+			"../public/imgs/fanta-orange-300ml-pack-of-12.jpg/fanta-orange-300ml-pack-of-12.jpg",
+			"../public/imgs/fanta-orange-300ml-pack-of-12.jpg/fanta-orange-300ml-pack-of-12.jpg",
+			"../public/imgs/fanta-orange-300ml-pack-of-12.jpg/fanta-orange-300ml-pack-of-12.jpg"
+		],
+		"Price": "GH₵30.00",
+		"Units": "12",
+		"UnitPrice": "GH₵2.50",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵2.50"
+	},
+	{
+		"Name": "Coca Cola 300ml - Pack of 12",
+		"Photos": [
+			"../public/imgs/coca-cola-300ml-pack-of-12.jpg/coca-cola-300ml-pack-of-12.jpg"
+		],
+		"Price": "GH₵30.00",
+		"Units": "12",
+		"UnitPrice": "GH₵2.50",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵2.50"
+	},
+	{
+		"Name": "Fanta Lemon 300ml - Pack of 12",
+		"Photos": [
+			"../public/imgs/fanta-lemon-300ml-pack-of-12.jpg/fanta-lemon-300ml-pack-of-12.jpg"
+		],
+		"Price": "GH₵30.00",
+		"Units": "12",
+		"UnitPrice": "GH₵2.50",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵2.50"
+	},
+	{
+		"Name": "Sprite 300ml - Pack of 12",
+		"Photos": [
+			"../public/imgs/sprite-300ml-pack-of-12.jpg/sprite-300ml-pack-of-12.jpg",
+			"../public/imgs/sprite-300ml-pack-of-12.jpg/sprite-300ml-pack-of-12.jpg",
+			"../public/imgs/sprite-300ml-pack-of-12.jpg/sprite-300ml-pack-of-12.jpg"
+		],
+		"Price": "GH₵30.00",
+		"Units": "12",
+		"UnitPrice": "GH₵2.50",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵2.50"
+	},
+	{
+		"Name": "Colgate Herbal Toothpaste 140g (Pack of 12)",
+		"Photos": [
+			"../public/imgs/colgate-herbal-toothpaste-140g.jpg/colgate-herbal-toothpaste-140g.jpg"
+		],
+		"Price": "GH₵96.93",
+		"Units": "12",
+		"UnitPrice": "GH₵8.08",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵8.08"
+	},
+	{
+		"Name": "Peak Full Cream Milk 1L (Pack of 12)",
+		"Photos": [
+			"../public/imgs/peak-full-cream-milk-1l-pack-of-12.jpg/peak-full-cream-milk-1l-pack-of-12.jpg"
+		],
+		"Price": "GH₵122.99",
+		"Units": "12",
+		"UnitPrice": "GH₵10.25",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵10.25"
+	},
+	{
+		"Name": "Milo Sachet 400g - Pack of 12",
+		"Photos": [
+			"../public/imgs/milo-sachet-400g-pack-of-12.jpg/milo-sachet-400g-pack-of-12.jpg"
+		],
+		"Price": "GH₵187.81",
+		"Units": "12",
+		"UnitPrice": "GH₵15.65",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵15.65"
+	},
+	{
+		"Name": "Nido Essentia 26g Sachet Strip of 10 (Box of 12 strips)",
+		"Photos": [
+			"../public/imgs/nido-essentia-26g-sachet-strip-of-10-box-of-12-strips.jpg/nido-essentia-26g-sachet-strip-of-10-box-of-12-strips.jpg",
+			"../public/imgs/nido-essentia-26g-sachet-strip-of-10-box-of-12-strips.jpg/nido-essentia-26g-sachet-strip-of-10-box-of-12-strips.jpg",
+			"../public/imgs/nido-essentia-26g-sachet-strip-of-10-box-of-12-strips.jpg/nido-essentia-26g-sachet-strip-of-10-box-of-12-strips.jpg"
+		],
+		"Price": "GH₵188.60",
+		"Units": "12",
+		"UnitPrice": "GH₵15.72",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵15.72"
+	},
+	{
+		"Name": "Milo Tin 400g - (Carton of 12)",
+		"Photos": [
+			"../public/imgs/milo-tin-400g-carton-of-12.jpg/milo-tin-400g-carton-of-12.jpg",
+			"../public/imgs/milo-tin-400g-carton-of-12.jpg/milo-tin-400g-carton-of-12.jpg",
+			"../public/imgs/milo-tin-400g-carton-of-12.jpg/milo-tin-400g-carton-of-12.jpg"
+		],
+		"Price": "GH₵226.19",
+		"Units": "12",
+		"UnitPrice": "GH₵18.85",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵18.85"
+	},
+	{
+		"Name": "Milo Sachet 800g - (Pack of 12)",
+		"Photos": [
+			"../public/imgs/milo-sachet-800g-pack-of-12.jpg/milo-sachet-800g-pack-of-12.jpg"
+		],
+		"Price": "GH₵339.26",
+		"Units": "12",
+		"UnitPrice": "GH₵28.27",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵28.27"
+	},
+	{
+		"Name": "Verna 500ml Natural Mineral Water (Pack of 15)",
+		"Photos": [
+			"../public/imgs/verna-500ml-natural-mineral-water-pack-of-15.jpg/verna-500ml-natural-mineral-water-pack-of-15.jpg",
+			"../public/imgs/verna-500ml-natural-mineral-water-pack-of-15.jpg/verna-500ml-natural-mineral-water-pack-of-15.jpg",
+			"../public/imgs/verna-500ml-natural-mineral-water-pack-of-15.jpg/verna-500ml-natural-mineral-water-pack-of-15.jpg",
+			"../public/imgs/verna-500ml-natural-mineral-water-pack-of-15.jpg/verna-500ml-natural-mineral-water-pack-of-15.jpg",
+			"../public/imgs/32.jpg/32.jpg"
+		],
+		"Price": "GH₵13.13",
+		"Units": "15",
+		"UnitPrice": "GH₵0.88",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵0.88"
+	},
+	{
+		"Name": "Bel Aqua 330ml Bottled Water (Pack of 15)",
+		"Photos": [
+			"../public/imgs/bel-aqua-330ml-bottled-water-pack-of-15.jpg/bel-aqua-330ml-bottled-water-pack-of-15.jpg"
+		],
+		"Price": "GH₵13.13",
+		"Units": "15",
+		"UnitPrice": "GH₵0.88",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵0.88"
+	},
+	{
+		"Name": "Bel Aqua 750ml Bottled Water (Pack of 15)",
+		"Photos": [
+			"../public/imgs/bel-aqua-750ml-bottled-water-box-of-20.jpg/bel-aqua-750ml-bottled-water-box-of-20.jpg"
+		],
+		"Price": "GH₵14.50",
+		"Units": "15",
+		"UnitPrice": "GH₵0.97",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵0.97"
+	},
+	{
+		"Name": "Awake Mineral Water 500ml x 15",
+		"Photos": [
+			"../public/imgs/awake-mineral-water-500ml-x-15.jpg/awake-mineral-water-500ml-x-15.jpg"
+		],
+		"Price": "GH₵15.00",
+		"Units": "15",
+		"UnitPrice": "GH₵1.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.00"
+	},
+	{
+		"Name": "Bel Aqua 500ml Bottled Water (Pack of 15)",
+		"Photos": [
+			"../public/imgs/bel-aqua-500ml-bottled-water-pack-of-15.jpg/bel-aqua-500ml-bottled-water-pack-of-15.jpg"
+		],
+		"Price": "GH₵15.00",
+		"Units": "15",
+		"UnitPrice": "GH₵1.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.00"
+	},
+	{
+		"Name": "Voltic 500ml Bottled Water (Pack of 15)",
+		"Photos": [
+			"../public/imgs/voltic-500ml-bottled-water-pack-of-15.jpg/voltic-500ml-bottled-water-pack-of-15.jpg"
+		],
+		"Price": "GH₵15.15",
+		"Units": "15",
+		"UnitPrice": "GH₵1.01",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.01"
+	},
+	{
+		"Name": "Bel Aqua 750ml Bottled Water (Pack of 15)",
+		"Photos": [
+			"../public/imgs/bel-aqua-750ml-bottled-water-box-of-20.jpg/bel-aqua-750ml-bottled-water-box-of-20.jpg"
+		],
+		"Price": "GH₵20.19",
+		"Units": "15",
+		"UnitPrice": "GH₵1.35",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.35"
+	},
+	{
+		"Name": "Vega Spaghetti 500g(pack of 20)",
+		"Photos": null,
+		"Price": "GH₵50.00",
+		"Units": "20",
+		"UnitPrice": "GH₵2.50",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵2.50"
+	},
+	{
+		"Name": "Oba Spaghetti 475g (Box of 20)",
+		"Photos": [
+			"../public/imgs/oba-spaghetti-475g-Box-of-20.jpg/oba-spaghetti-475g-Box-of-20.jpg"
+		],
+		"Price": "GH₵63.25",
+		"Units": "20",
+		"UnitPrice": "GH₵3.16",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.16"
+	},
+	{
+		"Name": "Golden Tree Chocolate 50g (Box of 20pcs)",
+		"Photos": [
+			"../public/imgs/golden-tree-chocolate-50g-box-of-20pcs.jpg/golden-tree-chocolate-50g-box-of-20pcs.jpg"
+		],
+		"Price": "GH₵75.70",
+		"Units": "20",
+		"UnitPrice": "GH₵3.79",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.79"
+	},
+	{
+		"Name": "Bel Aqua 500ml Bottled Water (Box of 24)",
+		"Photos": [
+			"../public/imgs/bel-aqua-500ml-bottled-water-box-of-24.jpg/bel-aqua-500ml-bottled-water-box-of-24.jpg"
+		],
+		"Price": "GH₵25.00",
+		"Units": "24",
+		"UnitPrice": "GH₵1.04",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.04"
+	},
+	{
+		"Name": "Peak Milk (Green) Low Cholesterol 160g 24tins",
+		"Photos": [
+			"../public/imgs/peak-milk-green-low-cholesterol-160g-24tins.jpg/peak-milk-green-low-cholesterol-160g-24tins.jpg"
+		],
+		"Price": "GH₵75.73",
+		"Units": "24",
+		"UnitPrice": "GH₵3.16",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.16"
+	},
+	{
+		"Name": "Carnation Milk 160g (24 Tins) Full Cream Evaporated",
+		"Photos": [
+			"../public/imgs/carnation-milk-160g-24-tins-full-cream-evaporated.jpg/carnation-milk-160g-24-tins-full-cream-evaporated.jpg"
+		],
+		"Price": "GH₵77.00",
+		"Units": "24",
+		"UnitPrice": "GH₵3.21",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.21"
+	},
+	{
+		"Name": "Fanta 330ml Can - Pack of 24",
+		"Photos": [
+			"../public/imgs/fanta-330ml-tin-pack-of-24.jpg/fanta-330ml-tin-pack-of-24.jpg"
+		],
+		"Price": "GH₵82.00",
+		"Units": "24",
+		"UnitPrice": "GH₵3.42",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.42"
+	},
+	{
+		"Name": "Coca Cola 330ml Can - Pack of 24",
+		"Photos": [
+			"../public/imgs/coca-cola-330ml-tin-pack-of-24.jpg/coca-cola-330ml-tin-pack-of-24.jpg"
+		],
+		"Price": "GH₵82.00",
+		"Units": "24",
+		"UnitPrice": "GH₵3.42",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.42"
+	},
+	{
+		"Name": "Sprite 330ml Carton of 24",
+		"Photos": [
+			"../public/imgs/38.jpg/38.jpg",
+			"../public/imgs/sprite-330ml-carton-of-24.jpg/sprite-330ml-carton-of-24.jpg"
+		],
+		"Price": "GH₵82.00",
+		"Units": "24",
+		"UnitPrice": "GH₵3.42",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.42"
+	},
+	{
+		"Name": "Tasty Tom Tomato Paste 210g (Box of 24)",
+		"Photos": [
+			"../public/imgs/tasty-tom-tomato-paste-210g-box-of-24.jpg/tasty-tom-tomato-paste-210g-box-of-24.jpg"
+		],
+		"Price": "GH₵95.00",
+		"Units": "24",
+		"UnitPrice": "GH₵3.96",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.96"
+	},
+	{
+		"Name": "Ideal Milk 160g 24tins",
+		"Photos": [
+			"../public/imgs/ideal-milk-160g-24tins.jpg/ideal-milk-160g-24tins.jpg",
+			"../public/imgs/ideal-milk-160g-24tins.jpg/ideal-milk-160g-24tins.jpg",
+			"../public/imgs/ideal-milk-160g-24tins.jpg/ideal-milk-160g-24tins.jpg"
+		],
+		"Price": "GH₵97.54",
+		"Units": "24",
+		"UnitPrice": "GH₵4.06",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵4.06"
+	},
+	{
+		"Name": "Lipton Yellow Label Tea Small Box 50g x 24",
+		"Photos": [
+			"../public/imgs/22.jpg/22.jpg",
+			"../public/imgs/lipton-yelllow-label-tea-small-box-50gx-24.jpg/lipton-yelllow-label-tea-small-box-50gx-24.jpg"
+		],
+		"Price": "GH₵121.17",
+		"Units": "24",
+		"UnitPrice": "GH₵5.05",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵5.05"
+	},
+	{
+		"Name": "Tasty Tom Tomato Paste 400g (Box of 24)",
+		"Photos": [
+			"../public/imgs/tasty-tom-tomato-paste-400g-box-of-24.jpg/tasty-tom-tomato-paste-400g-box-of-24.jpg"
+		],
+		"Price": "GH₵164.40",
+		"Units": "24",
+		"UnitPrice": "GH₵6.85",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵6.85"
+	},
+	{
+		"Name": "Cowbell Sachets 14g Strip of 10 (Box of 24 strips)",
+		"Photos": [
+			"../public/imgs/cowbell-sachets-14g-strip-of-10-box-of-24-strips.jpg/cowbell-sachets-14g-strip-of-10-box-of-24-strips.jpg"
+		],
+		"Price": "GH₵180.74",
+		"Units": "24",
+		"UnitPrice": "GH₵7.53",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵7.53"
+	},
+	{
+		"Name": "Ideal Milk Creamy 160g 24tins",
+		"Photos": [
+			"../public/imgs/ideal-milk-creamy-160g-24tins.jpg/ideal-milk-creamy-160g-24tins.jpg"
+		],
+		"Price": "GH₵208.00",
+		"Units": "24",
+		"UnitPrice": "GH₵8.67",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵8.67"
+	},
+	{
+		"Name": "Ensure Milk Original Chocolate 237ml (Box of 24)",
+		"Photos": [
+			"../public/imgs/6.jpg/6.jpg",
+			"../public/imgs/ensure-milk-original-chocolate-237ml-box-of-24.jpg/ensure-milk-original-chocolate-237ml-box-of-24.jpg"
+		],
+		"Price": "GH₵292.00",
+		"Units": "24",
+		"UnitPrice": "GH₵12.17",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵12.17"
+	},
+	{
+		"Name": "Oreo Chocolate Sandwich Cookies 68g (Box of 30)",
+		"Photos": [
+			"../public/imgs/oreo-chocolate-sandwich-cookies-68g-box-of-30.jpg/oreo-chocolate-sandwich-cookies-68g-box-of-30.jpg"
+		],
+		"Price": "GH₵111.07",
+		"Units": "30",
+		"UnitPrice": "GH₵3.70",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.70"
+	},
+	{
+		"Name": "Milo Sachets 20g (Strip of 10) Box of 30",
+		"Photos": [
+			"../public/imgs/milo-sachets-20g-strip-of-10-box-of-30.jpg/milo-sachets-20g-strip-of-10-box-of-30.jpg"
+		],
+		"Price": "GH₵229.99",
+		"Units": "30",
+		"UnitPrice": "GH₵7.67",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵7.67"
+	},
+	{
+		"Name": "Nutrisnax Oat Digestive Biscuit - Box of 36",
+		"Photos": [
+			"../public/imgs/nutrisnax-oat-digestive-biscuit-box-of-36.jpg/nutrisnax-oat-digestive-biscuit-box-of-36.jpg"
+		],
+		"Price": "GH₵80.78",
+		"Units": "36",
+		"UnitPrice": "GH₵2.24",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵2.24"
+	},
+	{
+		"Name": "Indomie Onion Chicken 70g (box of 40)",
+		"Photos": null,
+		"Price": "GH₵57.55",
+		"Units": "40",
+		"UnitPrice": "GH₵1.44",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.44"
+	},
+	{
+		"Name": "Indomie Chicken 70g (box of 40)",
+		"Photos": null,
+		"Price": "GH₵63.25",
+		"Units": "40",
+		"UnitPrice": "GH₵1.58",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.58"
+	},
+	{
+		"Name": "Indomie Onion chicken Super Pack 120g (Box of 40)",
+		"Photos": null,
+		"Price": "GH₵90.77",
+		"Units": "40",
+		"UnitPrice": "GH₵2.27",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵2.27"
+	},
+	{
+		"Name": "Indomie Chicken Super Pack 120g (Box of 40)",
+		"Photos": null,
+		"Price": "GH₵90.77",
+		"Units": "40",
+		"UnitPrice": "GH₵2.27",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵2.27"
+	},
+	{
+		"Name": "Choco Milo Energy Cubes 2.75gx50 - (Box of 40)",
+		"Photos": [
+			"../public/imgs/choco-milo-energy-cubes-box-of-50.jpg/choco-milo-energy-cubes-box-of-50.jpg"
+		],
+		"Price": "GH₵227.18",
+		"Units": "40",
+		"UnitPrice": "GH₵5.68",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵5.68"
+	},
+	{
+		"Name": "Heinz Baked Beans 200g - Pack of 48",
+		"Photos": [
+			"../public/imgs/heinz-baked-beans-200g-pack-of-48.jpg/heinz-baked-beans-200g-pack-of-48.jpg"
+		],
+		"Price": "GH₵191.84",
+		"Units": "48",
+		"UnitPrice": "GH₵4.00",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵4.00"
+	},
+	{
+		"Name": "Choco Milo Energy Cubes 2.75g x 50 (Pack)",
+		"Photos": [
+			"../public/imgs/nestle-energy-cubes-275g-.jpg/nestle-energy-cubes-275g-.jpg",
+			"../public/imgs/nestle-energy-cubes-275g-.jpg/nestle-energy-cubes-275g-.jpg",
+			"../public/imgs/nestle-energy-cubes-275g-.jpg/nestle-energy-cubes-275g-.jpg"
+		],
+		"Price": "GH₵6.06",
+		"Units": "50",
+		"UnitPrice": "GH₵0.12",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵0.12"
+	},
+	{
+		"Name": "Sunny White Sugar Sticks 10g (Pack of 50)",
+		"Photos": [
+			"../public/imgs/sunny-sugar-sticks-10g-pack-of-50-white.jpg/sunny-sugar-sticks-10g-pack-of-50-white.jpg"
+		],
+		"Price": "GH₵14.90",
+		"Units": "50",
+		"UnitPrice": "GH₵0.30",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵0.30"
+	},
+	{
+		"Name": "Geisha Mackerel in Tomato sauce 155g - Box of 50",
+		"Photos": [
+			"../public/imgs/geisha-mackerel-in-tomato-sauce-155g-box-of-50.jpg/geisha-mackerel-in-tomato-sauce-155g-box-of-50.jpg"
+		],
+		"Price": "GH₵171.65",
+		"Units": "50",
+		"UnitPrice": "GH₵3.43",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.43"
+	},
+	{
+		"Name": "Milo Sardine 125g- Box of 50",
+		"Photos": null,
+		"Price": "GH₵181.75",
+		"Units": "50",
+		"UnitPrice": "GH₵3.64",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵3.64"
+	},
+	{
+		"Name": "Maggi Shrimp Cubes (Pack of 60)",
+		"Photos": [
+			"../public/imgs/maggi-shrimp-cubes-pack-of-60.jpg/maggi-shrimp-cubes-pack-of-60.jpg",
+			"../public/imgs/maggi-shrimp-cubes-pack-of-60.jpg/maggi-shrimp-cubes-pack-of-60.jpg",
+			"../public/imgs/maggi-shrimp-cubes-pack-of-60.jpg/maggi-shrimp-cubes-pack-of-60.jpg"
+		],
+		"Price": "GH₵13.13",
+		"Units": "60",
+		"UnitPrice": "GH₵0.22",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵0.22"
+	},
+	{
+		"Name": "Maggi Chicken Cubes (Pack of 60)",
+		"Photos": [
+			"../public/imgs/maggi-chicken-cubes-pack-of-60.jpg/maggi-chicken-cubes-pack-of-60.jpg",
+			"../public/imgs/maggi-chicken-cubes-pack-of-60.jpg/maggi-chicken-cubes-pack-of-60.jpg",
+			"../public/imgs/maggi-chicken-cubes-pack-of-60.jpg/maggi-chicken-cubes-pack-of-60.jpg"
+		],
+		"Price": "GH₵16.00",
+		"Units": "60",
+		"UnitPrice": "GH₵0.27",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵0.27"
+	},
+	{
+		"Name": "Onga Shrimp Cube (Pack of 64)",
+		"Photos": [
+			"../public/imgs/onga-shrimp-cube-pack-of-64.jpg/onga-shrimp-cube-pack-of-64.jpg"
+		],
+		"Price": "GH₵17.83",
+		"Units": "64",
+		"UnitPrice": "GH₵0.28",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵0.28"
+	},
+	{
+		"Name": "Cowbell Strawberry 40g (Strip of 10 x 8)",
+		"Photos": [
+			"../public/imgs/cowbell-strawberry-40g-strip-of-8-x-10.jpg/cowbell-strawberry-40g-strip-of-8-x-10.jpg"
+		],
+		"Price": "GH₵106.02",
+		"Units": "80",
+		"UnitPrice": "GH₵1.33",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵1.33"
+	},
+	{
+		"Name": "Nescafe Classic 2g - Pack of 120",
+		"Photos": [
+			"../public/imgs/26.jpg/26.jpg",
+			"../public/imgs/nescafe-classic-2g-pack-of-120.jpg/nescafe-classic-2g-pack-of-120.jpg"
+		],
+		"Price": "GH₵66.30",
+		"Units": "120",
+		"UnitPrice": "GH₵0.55",
+		"SubUnits": "1",
+		"SubUnitPrice": "GH₵0.55"
+	}
+]

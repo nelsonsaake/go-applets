@@ -1,0 +1,213 @@
+{{define "wrapper"}}
+<!DOCTYPE html>
+<html>
+
+<head>
+  {{template "meta"}}
+    {{template "cdn"}}
+    {{template "google-fonts"}}
+    {{template "custom-style"}}
+    {{template "toggle-switch"}}
+</head>
+
+<body>
+    <div class="container">
+        {{template "header" .}}
+        <div class="content">
+            {{template "content" .}}
+        </div>
+        {{template "footer" .}}
+    </div>
+</body>
+
+</html>
+{{end}}
+
+<!-- . -->
+<!-- .. -->
+<!-- ... -->
+<!-- .... -->
+<!-- ..... -->
+{{define "google-fonts"}}
+<link href="https://fonts.googleapis.com/css2?family=Rancho&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bad+Script&family=Handlee&family=Niconne&family=Pompiere&family=Sue+Ellen+Francisco&display=swap" rel="stylesheet">
+{{end}}
+
+<!-- . -->
+<!-- .. -->
+<!-- ... -->
+<!-- .... -->
+<!-- ..... -->
+{{define "custom-style"}}
+<style>
+    body {
+        color: #505050;
+        font-family: 'Rancho';
+        font-family: 'Pompiere';
+        letter-spacing: 5px;
+        word-spacing: 15px;
+        font-size: 15pt;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    .right {
+        text-align: right;
+    }
+
+    header {
+        padding: 15px;
+    }
+
+    footer {
+        padding: 5vh;
+    }
+
+    .content {
+        padding: 15px;
+    }
+
+    .backgroundcolorPrimary {
+        background-color: #010665;
+    }
+
+    .backgroundcolorPrimaryLighter {
+        background-color: #303277;
+    }
+
+    .backgroundcolorBrandGrey {
+        background-color: #4c4c4c;
+    }
+
+    .carousel img {
+        padding: 2px;
+    }
+
+    .carousel-caption h5 {
+        padding: 15px;
+        color: #505050;
+        background-color: rgba(250, 250, 250, 1);
+    }
+
+    /* after thought fonts, clear this and see :) */
+
+    input{
+      min-width: 50%;
+    }
+
+    label{
+      min-width: 30%;
+      text-align: right;
+    }
+
+    header h1 {
+
+      letter-spacing: 100px;
+      background:;
+    }
+</style>
+{{end}}
+
+<!-- . -->
+<!-- .. -->
+<!-- ... -->
+<!-- .... -->
+<!-- ..... -->
+{{define "toggle-switch"}}
+<style>
+.switch {
+  position: relative;
+  display: inline-block;
+  min-width: 60px;
+  height: 34px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #505050;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #505050;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+</style>
+{{end}}
+
+<!-- . -->
+<!-- .. -->
+<!-- ... -->
+<!-- .... -->
+<!-- ..... -->
+{{define "meta"}}
+<!-- mobile first -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{end}}
+
+<!-- . -->
+<!-- .. -->
+<!-- ... -->
+<!-- .... -->
+<!-- ..... -->
+{{define "cdn"}}
+<!-- CSS only -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+<!-- JS, Popper.js, and jQuery -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+    crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+    integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+    crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+    integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+    crossorigin="anonymous"></script>
+{{end}}

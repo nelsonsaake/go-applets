@@ -1,0 +1,67 @@
+@mixin pagesize {
+    max-width: $page-width;
+    width: $page-width;
+    min-width: $page-width;
+    min-height: $page-height;
+    height: $page-height;
+    max-height: $page-height;
+    overflow: hidden;
+}
+
+@mixin pagepadding {
+    padding-top: $content-margin-top;
+    padding-left: $content-margin-left;
+    padding-right: $content-margin-right;
+    padding-bottom: $content-margin-bottom;
+}
+
+body{
+    background-color: $page-background;
+}
+
+.page {
+    @include pagesize;
+    @include pagepadding;
+    background-color: $page-background;
+    font-family: $default-page-font;
+    letter-spacing: $default-letter-spacing;
+    word-spacing: $default-word-spacing;
+    position: relative;
+    z-index: 3;
+
+    &_watermark {
+        position: absolute;
+        bottom: $watermark_bottom;
+        left: $watermark_left;
+        z-index: -1;
+        &,
+        & img {
+            min-width: $watermark_width;
+            min-height: $watermark_height;
+            height: $watermark_height;
+            max-height: $page-height;
+            max-width: $page-width;
+            opacity: $watermark_opacity;
+        }
+    }
+
+    &_header {
+        text-align: center;
+        color: $green;
+        font-size: 30px;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 5px;
+    }
+
+    // footer
+    &::after {
+        color: $footer_color;
+        content: $footer_content;
+        font-size: $footer_font_size;
+        height: $footer_height;
+        position: $footer_position;
+        bottom: $footer_bottom;
+        right: $footer_right;
+    }
+}

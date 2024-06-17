@@ -1,0 +1,79 @@
+{{ define "content"}}
+
+<div id="users-create">
+    <label for="create-user-div">
+        Create User
+        <span class="glyphicon glyphicon-user"></span> :
+    </label>
+    <div id="create-user-div">
+        <div class="row">
+            <div class="col-sm-3"></div>
+            <div class="col-sm-9">
+                <div class="row">
+                    <div class="col-sm-2">
+                        Email <span class="glyphicon glyphicon-envelope"></span> :
+                    </div>
+                    <div class="col-sm-2">
+                        <input type="text" class="email" id="email" placeholder="type email here">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-2">
+                        Password <span class="glyphicon glyphicon-lock"></span> :
+                    </div>
+                    <div class="col-sm-2">
+                        <input type="password" class="pwd" id="pwd" placeholder="type password here">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6"></div>
+                    <div class="col-sm-2">
+                        <button class="btn btn-success post" onclick="users_post()">
+                            Save <span class="glyphicon glyphicon-floppy-save"></span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<hr>
+<div id="users-table-wrapper">
+    <table id="users-table">
+        <thead>
+            <tr>
+                <th>Id <span class="glyphicon glyphicon-tag"></span> </th>
+                <th>Email <span class="glyphicon glyphicon-envelope"></span> </th>
+                <th>Password <span class="glyphicon glyphicon-lock"></span> </th>
+                <th>Time Created <span class="glyphicon glyphicon-time"></span> </th>
+            </tr>
+        </thead>
+        <tbody id="users-data">
+            {{ range .Users }}
+            <tr>
+                <td class="id">{{ .Id }}</td>
+                <td><input type="text" class="email" id="email{{ .Id }}" value="{{ .Email }}"
+                        placeholder="type email here">
+                </td>
+                <td><input type="password" class="pwd" id="pwd{{ .Id }}" value="{{ .Password }}"
+                        palceholder="type password here">
+                </td>
+                <td class="date">{{ .TimeCreated }}</td>
+                <td>
+                    <button class="btn btn-danger delete" onclick="users_delete({{ .Id }})">
+                        <span class="glyphicon glyphicon-trash"></span>
+                    </button>
+                </td>
+                <td>
+                    <button class="btn btn-primary put" onclick="users_put({{ .Id }})">
+                        Update
+                        <span class="glyphicon glyphicon-floppy-save"></span>
+                    </button>
+                </td>
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+</div>
+
+{{ end }}

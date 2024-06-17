@@ -1,0 +1,18 @@
+{{define "schs"}}
+<html lang="en">
+{{ template "head" "Schools" }}
+
+<body>
+    <div class="page">
+        {{ template "watermark" }}
+        <div class="page_header">
+            {{ .Heading }}<br>
+        </div>
+        <div class="schs_wrapper">
+            {{ .HTML }}
+        </div>
+    </div>
+</body>
+
+</html>
+{{end}}

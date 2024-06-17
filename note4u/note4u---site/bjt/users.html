@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <title>note4u</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="f:/desk/web/pkg/bsjq/bootstrap.min.css">
+    <script src="f:/desk/web/pkg/bsjq/jquery.min.js"></script>
+    <script src="f:/desk/web/pkg/bsjq/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./css/background_and_colors.css">
+    <link rel="stylesheet" href="./css/layout.css">
+</head>
+
+<body>
+    <div class="background">
+        <div class="glass">
+            <header>
+                <div id="page-label-wrapper">
+                    <span id="page-label"> Users </span>
+                </div>
+                <hr>
+            </header>
+            <div class="container">
+                <div id="selected-wrapper">
+                    <div id="console">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div>
+                                    <label for="selected">Selected row</label>
+                                </div>
+                                <div>
+                                    <div id="selected">
+                                        Id: <br>
+                                        Email: <br>
+                                        Passwird: <br>
+                                        Time Created: <br>
+                                    </div>
+                                </div>
+                            </div>
+                            <div col-sm-3>
+                                <button class="btn btn-danger delete">Delete</button>
+                                <button class="btn btn-primary put">Update</button>
+                                <button class="btn btn-success post">+</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="search-box-wrapper">
+                    <input type="text" id="search-box">
+                </div>
+                <div class="row">
+                    <div class="col-sm-2">
+                        <div class="c-nav">
+                            <label for="pages">Tables</label>
+                            <div id="pages">
+                                <ul class="no-style">
+                                    <li class="active">Users</li>
+                                    <li>Notes</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-10">
+                        <div id="users-table-wrapper">
+                            <table id="users-table">
+                                <thead>
+                                    <tr>
+                                        <th>Id</th>
+                                        <th>Email</th>
+                                        <th>Password</th>
+                                        <th>Time Created</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="users-data">
+                                    <tr>
+                                        <td class="id">1</td>
+                                        <td><input type="text" class="email" id="email1" value="nelson@gmail.com"
+                                                placeholder="type email here"></td>
+                                        <td><input type="password" class="pwd" id="pwd1" value="pwd"
+                                                palceholder="type password here">
+                                        </td>
+                                        <td class="date">12/2/2019</td>
+                                        <td><button class="btn btn-danger delete">Delete</button></td>
+                                        <td><button class="btn btn-primary put">Update</button></td>
+                                        <td><button class="btn btn-success post">+</button></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <footer>
+                <span id="signature"> @guywithissues.com </span>
+            </footer>
+        </div>
+    </div>
+</body>
+
+</html>

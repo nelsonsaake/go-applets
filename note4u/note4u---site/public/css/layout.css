@@ -1,0 +1,78 @@
+
+body,
+header,
+div,
+h1,
+button,
+input {
+    font-family: cursive;
+    letter-spacing: 1px;
+}
+
+header {
+    border-bottom: 2px solid firebrick;
+    box-shadow: 0px 2px 5px rgb(50, 50, 50);
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px rgba(178, 34, 34, 0.2);
+}
+
+.header-background {
+    background-image: url("../img/about-us-bg.jpg");
+    background-color: firebrick;
+
+    background-position: bottom;
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+header .glass {
+    background-color: rgba(178, 34, 34, 0.2);
+    height: 100%;
+
+    padding: 150px 0;
+}
+
+header .welcome-message {
+    font-size: 50px;
+}
+
+table {
+    width: 100%;
+}
+
+td,
+th {
+    padding: 15px;
+}
+
+.jumbotroon {
+    padding-top: 50px;
+}
+
+.btn {
+    border: 1px solid silver;
+    box-shadow: 0px 2px 5px rgb(50, 50, 50);
+}
+
+button.round {
+    border-radius: 50px;
+}
+
+button.fixed {
+    position: fixed;
+    right: 20px;
+}
+
+button.send-to-post {
+    bottom: 20px;
+}
+
+button.back-to-top {
+    bottom: 20px;
+}
+
+input {
+    margin: 5px;
+}

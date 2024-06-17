@@ -1,0 +1,3 @@
+file count:  171254
+ewdf file count:  16076
+ewdf infection:  9.39 %

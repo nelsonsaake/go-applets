@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AACI,eADW,CACT,WAAW,CAAA;EACT,aAAa,EAAE,GAAG;EAClB,MAAM,EAAE,GAAG,CAAC,KAAK,CDDT,OAAO;ECEf,SAAS,EAAE,IAAI;EACf,SAAS,EAAE,KAAK;EAChB,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,GAAG;EACZ,YAAY,EAAE,MAAM;EACpB,UAAU,EAAE,MAAM;CACrB;;ACVL,AAAA,OAAO,CAAA;EACH,gBAAgB,EFAZ,OAAO;EECX,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,MAAM;EAClB,KAAK,EAAE,KAAK;CACf;;ACLD,AAAA,IAAI,CAAA;EACA,gBAAgB,EHEF,OAAO;CGDxB;;ACAD,AAAA,CAAC,CAAC;EACE,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,UAAU;EACtB,KAAK,EJLD,OAAO;CIMd;;AEPD,AAAA,QAAQ,CAAA;EACJ,OAAO,EAAE,IAAI;CAChB",
+    "sources": [
+        "../../scss/main.scss",
+        "../../scss/_variables.scss",
+        "../../scss/_stores_catalog.scss",
+        "../../scss/_header.scss",
+        "../../scss/_page.scss",
+        "../../scss/_resets.scss",
+        "../../scss/_variables.scss",
+        "../../scss/_content.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

@@ -1,0 +1,48 @@
+{{define "items"}}
+<html lang="en">
+{{ template "head" "Items To Sell" }}
+
+<body>
+    <div class="page">
+        <!-- {{ template "watermark" }} -->
+        <div class="page_header">
+            Items To Sell <br>
+        </div>
+        <div class="stores_to_sell">
+            <div class="items">
+                {{range .}}
+                <div class="item">
+                    <div class="item_photo">
+                        {{range .Photos}}
+                        <div class="img" style="background-image: url({{.}});"> </div>
+                        {{end}}
+                    </div>
+                    <div class="item_name">
+                        {{.Name}}
+                    </div>
+                    <div class="item_details">
+                        <span class="item_price">
+                            price: {{.Price}}
+                        </span>
+                        <span class="item_uints">
+                            units: {{.Units}}
+                        </span>
+                        <span class="item_uint_price">
+                            unit price: {{.UnitPrice}}
+                        </span>
+                        <span class="item_sub_uints">
+                            sub units: {{.SubUnits}}
+                        </span>
+                        <span class="item_sub_uint_price">
+                            sup unit price: {{.SubUnitPrice}}
+                        </span>
+                    </div>
+                </div>
+                {{end}}
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
+{{end}}

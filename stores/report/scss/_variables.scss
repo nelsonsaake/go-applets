@@ -1,0 +1,30 @@
+$page-width: 21cm;
+$page-height: 29.7cm;
+
+$green: #2f5d62;
+$black: #3d3939;
+$outline-black: #707070; // #3D3939;
+$page-background: #fffaf1;
+
+$content-margin-top: 70px;
+$content-margin-left: 20px;
+$content-margin-right: 20px;
+$content-margin-bottom: 70px;
+
+$default-page-font: "Josefin Sans";
+$office-name-font: "Calibri";
+$candidate-name-font: "Calibri";
+
+$watermark_left: 54px;
+$watermark_width: 693px;
+$watermark_height: 489px;
+$watermark_bottom: 108px;
+$watermark_opacity: 0.25;
+
+$footer_color: $green;
+$footer_content: "saelections";
+$footer_font_size: 12px;
+$footer_height: 14px;
+$footer_position: absolute;
+$footer_bottom: 18px;
+$footer_right: 23px;
